@@ -13,7 +13,7 @@ A modern, high-performance File Explorer UI designed for enterprise cloud securi
 
 The application follows a "cyber-secure, precise, and fast" aesthetic (Dark Mode).
 
-- **Design File**: [INSERT_YOUR_FIGMA_LINK_HERE] (Anyone with the link can view)
+- **Design File**: [https://www.figma.com/design/yCaJxl4ody1XlOJgy6tTsU/Untitled?node-id=0-1&p=f&t=nZkN1suuWKJpK48T-0](https://www.figma.com/design/yCaJxl4ody1XlOJgy6tTsU/Untitled?node-id=0-1&p=f&t=nZkN1suuWKJpK48T-0) (Anyone with the link can view)
 
 ## Tech Stack
 
